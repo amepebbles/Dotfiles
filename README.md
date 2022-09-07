@@ -1,7 +1,7 @@
 ## Dotfiles🐧
 This repository serves the purpose of holding my personal Linux dotfiles. Dotfiles are, simply put, configuration files that hold information on how programs should look, feel and behave. If you'd like to learn more about them consider visiting https://dotfiles.github.io/.
 
-![preview](https://github.com/amepebbles/dotfiles/blob/main/preview/preview.png?raw=true)
+![preview](https://github.com/amepebbles/Dotfiles/raw/master/preview/preview.png)
 
 ## Dependencies
 To replicate this setup you need to install a couple base dependencies. I'm using Debian so the instructions will be using `apt` as the package manager, you can change it accordingly to your distribution of choice.
