@@ -1,0 +1,3 @@
+#!/bin/bash
+## QUICK NOTE TAKING
+printf '%s\n' "$(date +%d/%m/%y): $*" >> $HOME/.cache/notes

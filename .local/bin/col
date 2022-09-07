@@ -1,0 +1,6 @@
+#!/bin/bash
+## PRINT TERMINAL 16 COLORS
+printf '\e[4%sm   \e[m'  {0..7}
+printf '\n'
+printf '\e[10%sm   \e[m'  {0..7}
+printf '\n'
