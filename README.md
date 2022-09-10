@@ -1,3 +1,18 @@
+<!--
+# Dotfiles
+
+My personal Linux dotfiles
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Dotfiles**
+| :label: Tecnologias | Bash, Shell, Linux
+| :rocket: URL         | https://github.com/amepebbles/Dotfiles
+| :fire: Desafio     | https://www.alura.com.br/challenges/devops
+
+![](https://github.com/amepebbles/Dotfiles/raw/master/preview/preview.png#vitrinedev)
+
+-->
 ## Dotfiles🐧
 This repository serves the purpose of holding my personal Linux dotfiles. Dotfiles are, simply put, configuration files that hold information on how programs should look, feel and behave. If you'd like to learn more about them consider visiting https://dotfiles.github.io/.
 
